@@ -20,9 +20,6 @@ In this template are the following parts:
 * [Configuration](#configuration)
 
 
-> NOTE: This template was developed for a personalized website and has been modified for public download.
-
-
 
 ## Demo
 Try the demo [here](https://dxve.de/projects/cylancis/).
